@@ -4,7 +4,7 @@ Lo importo con esta línea de código:
 
 **import React, { useState } from ‘react’;**
 
-Creo la función: 
+Creo una const: 
 
 **const [name, setName] = useState(’Asa’);**
 
@@ -16,7 +16,7 @@ y me va a mostrar en la app “My name is Asa”
 
 Cambiando el estado de name:
 
-creo la función:
+creo una const:
 
 **const onClickHandler = () ⇒ {**
 
