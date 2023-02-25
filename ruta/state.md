@@ -27,3 +27,5 @@ creo una const:
 y por ejemplo si tengo un botón, al clickearlo me va a cambiar el nombre Asa por Milena:
 
 **Button onPress={onClickHandler}>__</Button**
+
+Practique con chatgpt sobre states y props
