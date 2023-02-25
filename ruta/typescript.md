@@ -1,1 +1,2 @@
-Hoy aprendo un poco más sobre TypeScript.
+25/Feb Aprendo un poco más sobre TypeScript.
+// https://fullstackopen.com/es/part9/antecedentes_e_introduccion
