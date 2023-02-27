@@ -30,3 +30,5 @@ y por ejemplo si tengo un botón, al clickearlo me va a cambiar el nombre Asa po
 
 Practique con chatgpt sobre states y props
 Buscar documentacion y videos
+
+Sigo con componentes y estilos
