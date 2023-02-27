@@ -15,3 +15,4 @@ console.log(sum);
 In this example, we define a function called addNumbers that takes two arguments of type number and returns a number. We then call this function and pass in the values 1 and 2 as arguments. The function returns the sum of these two numbers, which we store in the variable sum. Finally, we log the value of sum to the console using the console.log method.
 
 Note that we have added type annotations to the function parameters and return type using the colon : syntax. This helps us catch type errors at compile-time and improves the overall code quality and readability.
+Diferencias entre el tipado
