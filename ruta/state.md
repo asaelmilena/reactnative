@@ -2,15 +2,15 @@
 
 Lo importo con esta línea de código: 
 
-**import React, { useState } from ‘react’;**
+> import React, { useState } from ‘react’;
 
 Creo una const: 
 
-**const [name, setName] = useState(’Asa’);**
+> const [name, setName] = useState(’Asa’);
 
 y lo puedo utilizar en este caso:
 
-**<Text>My name is {name}</Text>**
+> <Text>My name is {name}</Text>
 
 y me va a mostrar en la app “My name is Asa”
 
@@ -18,17 +18,12 @@ Cambiando el estado de name:
 
 creo una const:
 
-**const onClickHandler = () ⇒ {**
-
-**setName(’Milena’)**
-
-**}**
+> const onClickHandler = () ⇒ {
+  setName(’Milena’)
+}
 
 y por ejemplo si tengo un botón, al clickearlo me va a cambiar el nombre Asa por Milena:
 
-**Button onPress={onClickHandler}>__</Button**
+> <Button onPress={onClickHandler}></Button>
 
-Practique con chatgpt sobre states y props
-Buscar documentacion y videos
-
-Sigo con componentes y estilos
+Sigo con estilos
