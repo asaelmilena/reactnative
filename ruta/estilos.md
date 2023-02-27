@@ -14,4 +14,4 @@ const Styles = StyleSheet.create ({
 y para usar esos estilos, es tan simple como agregar el atributo style a la etiqueta
 y para darle el estilo de container mapeamos la variable styles a container, por ejemplo:
 
-<View style={styles.container}>código</View>
+<View style={ styles.container }>código</View>
