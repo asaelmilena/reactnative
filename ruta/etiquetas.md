@@ -1,7 +1,7 @@
 # Etiquetas
 
->View
->Text
->Button
->Input
->List/
+View
+Text
+Button
+Input
+Lists/ScrollView
