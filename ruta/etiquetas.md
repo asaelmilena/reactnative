@@ -14,3 +14,5 @@ primero lo importo
 y la etiqueta sería
 
 > <Image source={require('./assets/foto.png')} />
+
+.
