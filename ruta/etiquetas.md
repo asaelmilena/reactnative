@@ -15,4 +15,4 @@ y la etiqueta sería
 
 > <Image source={require('./assets/foto.png')} />
 
-.
+Hoy voy con TextInput Lists & ScrollView
