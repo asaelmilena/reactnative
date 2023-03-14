@@ -16,3 +16,5 @@ y la etiqueta sería
 > <Image source={require('./assets/foto.png')} />
 
 Hoy voy con TextInput Lists & ScrollView
+
+Tengo que ver como crear al menos 3 pantallas + la ux y ui de la app
